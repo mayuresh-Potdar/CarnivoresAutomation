@@ -1,0 +1,43 @@
+11:09:42.284 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:42.288 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:09:42.310 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:09:42.311 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:42.312 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:09:42.333 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:09:42.334 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:42.335 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:09:42.354 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:09:42.354 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:42.355 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:09:47.069 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:09:47.070 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:47.071 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:09:47.092 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:09:47.093 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:47.095 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:09:47.117 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:09:47.119 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:47.120 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:09:47.143 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+11:09:47.144 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+11:09:47.145 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+11:30:58.635 [main] DEBUG api.test.UserTests2 - debugging........
+11:30:58.652 [main] INFO  api.test.UserTests2 - ***************** Creating User ********************
+11:31:02.349 [main] INFO  api.test.UserTests2 - ***************** User is created ********************
+11:31:02.368 [main] INFO  api.test.UserTests2 - ***************** Reading User info ********************
+11:31:03.964 [main] INFO  api.test.UserTests2 - ***************** User info is displayed ********************
+11:31:03.974 [main] INFO  api.test.UserTests2 - ***************** Updating user ********************
+11:31:05.543 [main] INFO  api.test.UserTests2 - ***************** User is updated ********************
+11:31:07.086 [main] INFO  api.test.UserTests2 - ***************** Deleting User ********************
+11:31:08.621 [main] INFO  api.test.UserTests2 - ***************** User Deleted ********************
+11:45:37.023 [main] DEBUG api.test.UserTests2 - debugging........
+11:45:37.054 [main] INFO  api.test.UserTests2 - ***************** Creating User ********************
+11:45:43.875 [main] INFO  api.test.UserTests2 - ***************** User is created ********************
+11:45:43.923 [main] INFO  api.test.UserTests2 - ***************** Reading User info ********************
+11:45:45.682 [main] INFO  api.test.UserTests2 - ***************** User info is displayed ********************
+11:45:45.687 [main] INFO  api.test.UserTests2 - ***************** Updating user ********************
+11:45:47.210 [main] INFO  api.test.UserTests2 - ***************** User is updated ********************
+11:45:48.778 [main] INFO  api.test.UserTests2 - ***************** Deleting User ********************
+11:45:50.300 [main] INFO  api.test.UserTests2 - ***************** User Deleted ********************
+12:11:05.077 [main] DEBUG api.test.UserTests2 - debugging........
+12:11:05.095 [main] INFO  api.test.UserTests2 - ***************** Creating User ********************
